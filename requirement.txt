@@ -1,0 +1,7 @@
+gradio
+google-generativeai
+sentence-transformers
+faiss-cpu
+pypdf
+python-dotenv
+numpy
